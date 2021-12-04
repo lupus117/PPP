@@ -1,0 +1,34 @@
+---
+title: "PP nights"
+author: "Lupus and friends"
+date: 'Last updated: `r Sys.Date()`'
+output:
+  html_document:   
+    css: style.css
+
+  pdf_document:
+    toc: yes
+    toc_depth: 3
+editor_options: 
+  markdown: 
+    wrap: sentence
+---
+
+# What is this 
+
+# Powerpoint pdfs {.halfSize .old}
+
+## 4 DEC 21 
+
+Name | Author 
+:-- | :--
+[You're the man now dog](4-12-21/Youre_the_man_now_dog.pdf) | Farris
+[Theories on why the dinosaurs died](4-12-21/Lesser_known_theories.pdf) | Barth
+[Which Lord of the rings characer are my friends](4-12-21/The_Lord_of_the_Rings.pptx.pdf) | Amber
+[Ships](4-12-21/SHIPS.pdf) | Carmen
+[Rubrick](4-12-21/Rubick1.pdf) | Poke
+[Coocking](4-12-21/cooking_pp.pdf) | Judge
+[Random thoughts I've had](4-12-21/Random_thoughts_Ive_had.pdf) | Lupus
+[Gar-Gar Glings](4-12-21/Jarex_powerpointnight.pdf) | Jarex
+[Which dark souls character are you](4-12-21/What_Dark_Souls_Character_are_you.pdf) | gabe
+[Gabe is slow](4-12-21/PPP_about_gabe_being_slow.pdf) | judge
