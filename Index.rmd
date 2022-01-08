@@ -16,7 +16,7 @@ editor_options:
 
 # What is this 
 
-# Powerpoints (as pdf) {.halfSize .old}
+# Powerpoints (as pdf) {.halfSize .old .tabset .tabset-fade .tabset-pills}
 
 ## 4 DEC 21 
 
@@ -30,5 +30,16 @@ Name | Author
 [Coocking](4-12-21/cooking_pp.pdf) | Judge
 [Random thoughts I've had](4-12-21/Random_thoughts_Ive_had.pdf) | Lupus
 [Gar-Gar Glings](4-12-21/Jarex_powerpointnight.pdf) | Jarex
-[Which dark souls character are you](4-12-21/What_Dark_Souls_Character_are_you.pdf) | gabe
-[Gabe is slow](4-12-21/PPP_about_gabe_being_slow.pdf) | judge
+[Which dark souls character are you](4-12-21/What_Dark_Souls_Character_are_you.pdf) | Gabe
+[Gabe is slow](4-12-21/PPP_about_gabe_being_slow.pdf) | Judge
+
+## 8 JAN 22
+Name | Author 
+:-- | :--
+[Balkankriege](8-1-22/Balkankriege_Powerpoint.pdf) | Yarex
+[Spirit animals and death](8-1-22/SpiritAnimalAndDeath.pdf) | Carmen
+[PPP about things that remind me of people](8-1-22/PPP_about_things_that_remind_me_of_people.pdf) | Judge
+[Luxenbawb](8-1-22/Luxembawb.pdf) | White
+[The Prince from the High Spire](8-1-22/Prince.pdf) | Lupus
+[Why we need racism](8-1-22/Why_we_need_Racism.pdf) | Poke
+[PPP about Lupus](8-1-22/PPP_about_Lupus.pdf) | Judge
