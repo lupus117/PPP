@@ -16,6 +16,8 @@ editor_options:
 
 # What is this 
 
+This website is a way of viewing and saving old powerpoints from previous powerpoint nights.
+
 # Powerpoints (as pdf) {.halfSize .old .tabset .tabset-fade .tabset-pills}
 
 ## 4 DEC 21 
@@ -44,3 +46,116 @@ Name | Author
 [The Prince from the High Spire](8-1-22/Prince.pdf) | Lupus
 [Why we need racism](8-1-22/Why_we_need_Racism.pdf) | Poke
 [PPP about Lupus](8-1-22/PPP_about_Lupus.pdf) | Judge
+
+# PP live {.old .tabset .tabset-fade .tabset-pills}
+
+## INFO
+
+Here you can find the live powerpoints, there are a few missing but you can still view the pdf files.
+
+## 4 DEC 21 {.tabset .tabset-fade .tabset-pills}
+
+### Farris
+
+[You're the man now dog](4-12-21/Youre_the_man_now_dog.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTluUNfLiWZqZiRWDKQr8yl9OOg9kTlaDHNijRC-gQa1lyDCg45XRXKN_DbQatn4g/embed?start=false&loop=false&delayms=10000" frameborder="0" width="100%" height="569px" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Barth 
+
+[Theories on why the dinosaurs died](4-12-21/Lesser_known_theories.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6QxE2huqnGYacjdeEdK04Mm2OZGtNuHWnVieuTEC9eikG-w9AYoyrMKMZueP5BA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Amber 
+
+[Which Lord of the rings characer are my friends](4-12-21/The_Lord_of_the_Rings.pptx.pdf)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT8PNUaShzot6NYiKwzO0q6SUTdIc-YOKxk_pIT8Io-3rd9DwRrMDqAcB49xc3FEQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Carmen
+
+[Ships](4-12-21/SHIPS.pdf)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSlp1z8XVeBn3l_3-zfOQTj9MqhfeUjRPiYh6MhVurHaPLf0eEXGEQxuZBM9KHcjQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Poke
+
+[Rubrick](4-12-21/Rubick1.pdf)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxNX5LDgrF1yDXMCeDxgMD_oPq-ehXUu5lLwSMqQ0bCItFkYKnx12Nz47EAra9dQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="823" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Judge
+
+[Coocking](4-12-21/cooking_pp.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRWMOe5pZ0K40H1zRPgRA6oKl-qMr1nOOO5AAB2DYi5qyZrtyD1eeV8X_XdsaWPvQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+[Gabe is slow](4-12-21/PPP_about_gabe_being_slow.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTca7MhiQyeUHAA_37Rr31b1iJDyvBHdX0rKWvDfxa2IKSBlcXFVEMTw3bGq6bCzw/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Lupus
+
+[Random thoughts I've had](4-12-21/Random_thoughts_Ive_had.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS6W28bHf6H3QCRSdLtcvgHXgvuSiAvv-TX8xAGEzMBO4WeJYJsnjCXUZiV-fYrNw/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Jarex
+
+[Gar-Gar Glings](4-12-21/Jarex_powerpointnight.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnPNbyLbvIwhHdWMpTViwLuwblSodm-T3tn7VabUo7JPrZSBj6l4Ou6bfneCaFyw/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Gabe
+
+[Which dark souls character are you](4-12-21/What_Dark_Souls_Character_are_you.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSxPzZMo44bl2tdNw_eU0Wxc6bk-taIVETvkMJqEz8koiVSCGViN6jmd87h9wWOxA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+## 8 JAN 22 {.tabset .tabset-fade .tabset-pills}
+
+### Jarex
+
+[Balkankriege](8-1-22/Balkankriege_Powerpoint.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRLvv731Ga6XS8ikB8SlTIZOZZrHJ8_ZTp9Zf3DaJ8IVwHSmvCLiOlNW9o17MyPdw/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Barth
+
+[Things I would never do](8-1-22/Things_that_I_would_neve_do.pptx.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSsL_WXf-0id8E2FGA9Wm00O-IltF8pLK0bi9RB5O4Id1ObKTTyDTQlY9g9rrpUg/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>   
+
+### Carmen
+
+[Spirit animals and death](8-1-22/SpiritAnimalAndDeath.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQwvnjaP261Td2PdNOWErFDVcxHbKCAtQ9PyNOZLH7ezxLizzaTOwxZTYA3JR9tpA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Judge
+
+[PPP about things that remind me of people](8-1-22/PPP_about_things_that_remind_me_of_people.pdf) 
+
+
+
+[PPP about Lupus](8-1-22/PPP_about_Lupus.pdf)
+
+### White
+
+[Luxenbawb](8-1-22/Luxembawb.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRkItIj_2zjDtRUqVfpbLdNCvL0wSL6C8wHxZmuk4ROLN7vFJSdEx84odwfjGRYWA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100% " height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Lupus 
+
+[The Prince from the High Spire](8-1-22/Prince.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ82PFufXyJFIqp83ZapQIC9hhIXrAqTbARHfATm70NrxelWb2B5dLauysBjj0KZA/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+### Poke
+
+[Why we need racism](8-1-22/Why_we_need_Racism.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRW12ouDKI2m5omydI66fO7Jl7C-k80m96Ax95Twz_TU-OYXJwJu064XphelzXvDQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%   " height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
