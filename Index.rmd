@@ -46,6 +46,8 @@ Name | Author
 [The Prince from the High Spire](8-1-22/Prince.pdf) | Lupus
 [Why we need racism](8-1-22/Why_we_need_Racism.pdf) | Poke
 [PPP about Lupus](8-1-22/PPP_about_Lupus.pdf) | Judge
+[Rating mass effect characters](8-1-22/Rating_Mass_effect_Characters_for_partners.pdf) | Mark
+[Dinnertime with Kimo](8-1-22/Dinnertime_with_Kimo.pdf) | Farris
 
 # PP live {.old .tabset .tabset-fade .tabset-pills}
 
@@ -159,3 +161,13 @@ Here you can find the live powerpoints, there are a few missing but you can stil
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRW12ouDKI2m5omydI66fO7Jl7C-k80m96Ax95Twz_TU-OYXJwJu064XphelzXvDQ/embed?start=false&loop=false&delayms=5000" frameborder="0" width="100%   " height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+### Mark
+
+[Rating mass effect characters](8-1-22/Rating_Mass_effect_Characters_for_partners.pdf) 
+
+
+### Farris
+
+[Dinnertime with Kimo](8-1-22/Dinnertime_with_Kimo.pdf) 
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTfvhcXla7bbfYeNpTmULtDL1OgrOkVKypo0lTyj5St-lA1NpCs0t_T6WCB6D-NUw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
