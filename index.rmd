@@ -68,7 +68,7 @@ Name | Author
 [BUNNIES](5-3-22/BUNNIES.pdf) | Carmen
 [How my player's will die](5-3-22/Death_And_Dying_Amber_PP.pdf) | Amber
 [Terminus Ignominia Amodeus](5-3-22/Etharis backup.pdf) | Lupus
-Why we need ~~Racism~~ War (sadly missing)| Barth 
+[Why we need ~~Racism~~ War](5-3-22/Welcome_to_my_PP.pdf)| Barth 
 [Frostpunk laws](5-3-22/PPP_about_Frostpunk_laws.pdf) | Judge
 [PP ranking](5-3-22/PPt_ranking.pdf) | Gabe
 
@@ -266,7 +266,9 @@ Here you can find the live powerpoints, there are a few missing but you can stil
 
 ### Barth
 
- we need ~~Racism~~ War (sadly missing)
+[Why we need ~~Racism~~ War](5-3-22/Welcome_to_my_PP.pdf)
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRxNDuYkdGqFYpH2TUkSrNyGZc0Z87M4aP_VTTtlgPKCaxbGJctAbtSp5TeUuE8iw/embed?start=false&loop=false&delayms=15000" frameborder="0" width="100%" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
  
 ### Judge
 
